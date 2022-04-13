@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @crewilson, you can call me Charlie
-- 👀 I’m interested in brains and neural data analysis, in order to study learning and the prefrontal cortex
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Charlie - @crewilson
+- 👀 I study the neural dynamics of learning and the prefrontal cortex
+- 🕸 Lab: https://www.sbri.fr/user/1506
+- 📄 Publications: https://orcid.org/0000-0001-9497-919X  or  https://scholar.google.com/citations?user=1S4coiUAAAAJ&hl=en
 - 📫 Tweet me @crewilson
 
 <!---
